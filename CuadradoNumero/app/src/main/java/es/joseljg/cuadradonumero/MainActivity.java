@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         edt_numero = (EditText) findViewById(R.id.edt_numero);
         txt_resultado = (TextView) findViewById(R.id.txt_resultado_cuadrado);
 
