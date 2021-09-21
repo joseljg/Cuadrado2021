@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo1</string>
+    <string name="hola">hola he cambiado el texto</string>
+    <string name="prueba">prueba</string>
+</resources>

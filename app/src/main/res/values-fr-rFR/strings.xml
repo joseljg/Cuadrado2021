@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejemplo1 en frances</string>
+    <string name="hola">esto es frances</string>
+    <string name="prueba">prueba en frances</string>
+</resources>
